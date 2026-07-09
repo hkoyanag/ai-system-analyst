@@ -24,3 +24,20 @@ Desktop.ini
 
 # Logs
 *.log
+logs/*
+!logs/.gitkeep
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Build
+dist/
+build/
+
+# Environment
+.env.*
+!.env.example
+
+# IDE
+*.code-workspace

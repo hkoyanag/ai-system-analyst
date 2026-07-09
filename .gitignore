@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# IDEA
+.idea/
+
+# Python
+.venv/
+venv/
+
+# Docker
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
